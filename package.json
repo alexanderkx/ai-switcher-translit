@@ -1,6 +1,6 @@
 {
   "name": "ai-switcher-translit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Изменение раскладки текста + транслитерация",
   "main": "index.js",
   "scripts": {
