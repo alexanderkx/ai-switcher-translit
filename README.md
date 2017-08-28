@@ -1,5 +1,8 @@
 ## Изменение раскладки текста + транслитерация
 
+[![NPM Version](https://img.shields.io/npm/v/ai-switcher-translit.svg)](https://www.npmjs.com/package/ai-switcher-translit)
+[![NPM Download](https://img.shields.io/npm/dm/ai-switcher-translit.svg)](https://www.npmjs.com/package/ai-switcher-translit)
+
 Простенькая библиотека для реализации смены раскладки входного текса (`rus <=> eng`). Также, при необходимости, совершает транслитерацию.
 
 ### Примеры преобразования
