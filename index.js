@@ -40,7 +40,7 @@ exports.getSwitch = function(str, settings) {
     let textToArray = str.split(''), result = [];
     if (!config.custom) {
         let obj = config.default;
-        if (settings.input) {
+        if (settings && settings.hasOwnProperty('input') && settings.input) {
             obj = Object.assign(obj, settings.input);
         }
         textToArray.forEach(function(sym, i) {
