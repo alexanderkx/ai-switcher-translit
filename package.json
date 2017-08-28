@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Изменение раскладки текста + транслитерация",
   "main": "index.js",
-  "bin": {
-    "ai-switcher-translit": "config.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
